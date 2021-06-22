@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.imc-math.org.uk/?year=2016&section=results&item=bysum
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
+  date_start: "2016-08"
+  description: "The competition is planned for students completing their first, second, third or fourth year of university education and will consist of 2 Sessions of 5 hours each. Problems are from the fields of Algebra, Analysis (Real and Complex), Geometry and Combinatorics"
+  organization:  University College London | Springer | Jane Street
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: First Prize at the International Mathematical Competition for University Students 2016
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
