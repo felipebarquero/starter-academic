@@ -9,13 +9,13 @@ superuser: true
 role: Mathematician
 
 # Organizations/Affiliations to show in About widget
-<!--organizations:
+organizations:
 - name: Stanford University
   url: https://www.stanford.edu/ 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
---> 
+
 
 # Interests to show in About widget
 interests:
@@ -42,13 +42,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:felipe.barquero@gmx.de
-<!--- icon: twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ 
--->
+
 - icon: github
   icon_pack: fab
   link: https://github.com/felipebarquero
